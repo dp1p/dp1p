@@ -8,8 +8,10 @@
   <img src="https://badges.pufler.dev/repos/dp1p" alt="Repositories"/>
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
+<br>
 
 <img align="right" alt="Coding" width="400" src="coding.gif"/>
+
 
 [![Follow on GitHub](https://img.shields.io/github/followers/dp1p?label=Follow&style=social)](https://github.com/dp1p)
 
