@@ -11,7 +11,7 @@
 
 
 
-  <img src="coding.gif" alt="Coding" width="500" align="right"/>
+  <img src="coding.gif" alt="Coding" max-width="300" align="right"/>
   - Air Force veteran transitioning into software engineering. <br><br>
   - Focused on creating innovative web applications and exploring <br> game development. <br><br>
   - Driven by a passion for blending creativity with technology to <br> deliver impactful solutions.<br><br>
