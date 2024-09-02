@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub Page ! 
 
-[![Views](https://img.shields.io/badge/Views-1000-brightgreen)](https://github.com/dp1p)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=dp1p)](https://github.com/dp1p)
 [![GitHub follow](https://img.shields.io/github/followers/dp1p.svg?style=social&label=Follow%20Me)](https://github.com/dp1p?tab=followers)
 
 I am an Air Force Veteran transitioning to Software Engineer / Development. 
