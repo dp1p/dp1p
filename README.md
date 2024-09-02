@@ -5,7 +5,7 @@
 <p align="center">
 
   [![Visits Badge](https://badges.pufler.dev/visits/dp1p/badge-it)](https://badges.pufler.dev)
-  [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/dp1p)](https://badges.pufler.dev)
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/dp1p)](https://badges.pufler.dev)
 </p>
 <br>
