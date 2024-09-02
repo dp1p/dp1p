@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p> -->
+<p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 
@@ -28,9 +29,10 @@
   - [Project 4](https://link-to-project4)
 
 - ⚡ Fun fact: **I am Funny**
+
 </p>
 
-<p></p> <!-- empty space for line break -->
+<p> </p> <!-- empty space for line break -->
 
 <h1 align="center">🔧 Technologies</h1>
 
