@@ -13,12 +13,16 @@
 
 <p>
     Air Force veteran transitioning into software engineering. <br><br>
-    Focused on creating innovative web applications and exploring game development. <br><br>
-    Driven by a passion for blending creativity with technology to deliver impactful solutions.<br><br>
+    Focused on creating innovative web applications and exploring <br> game development. <br><br>
+    Driven by a passion for blending creativity with technology to <br> deliver impactful solutions.<br><br>
 </p>
 
 
 <br> <!-- line break for gap -->
+<br>
+<br>
+<br>
+<br>
 <br>
 
 
