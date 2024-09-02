@@ -12,14 +12,15 @@
 <img align="right" alt="Coding" width="400" src="coding.gif">
 
 <p>
-    Air Force veteran transitioning into software engineering. </br>
-    Focused on creating innovative web applications and exploring game development. </br>
-    Driven by a passion for blending creativity with technology to deliver impactful solutions.
+    Air Force veteran transitioning into software engineering. <br><br>
+    Focused on creating innovative web applications and exploring game development. <br><br>
+    Driven by a passion for blending creativity with technology to deliver impactful solutions.<br><br>
 </p>
 
 
 <br> <!-- line break for gap -->
 <br>
+
 
 <h1 align="center">🔧 Technologies</h1>
 
