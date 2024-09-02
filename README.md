@@ -6,12 +6,13 @@
   <img src="https://badges.pufler.dev/visits/dp1p/dp1p" alt="Profile Visits"/> 
   <!-- <img src="https://badges.pufler.dev/years/dp1p" alt="Years on GitHub"/> -->
   <img src="https://badges.pufler.dev/repos/dp1p" alt="Repositories"/>
-
+  <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
 
 <img align="right" alt="Coding" width="400" src="coding.gif"/>
 
-<img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
+[![Follow on GitHub](https://img.shields.io/github/followers/dp1p?label=Follow&style=social)](https://github.com/dp1p)
+
 - 🛫 Air Force veteran transitioning into software engineering.
 
 - 👾 Focused on creating innovative web applications and exploring game development. 
