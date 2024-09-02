@@ -27,11 +27,18 @@ I am an Air Force Veteran transitioning to Software Engineer / Development.
 
 <h1 align="center"> 📊 Stats </h1> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dp1p&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p align="center">
+  <a href="https://github.com/dp1p/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=dp1p&show_icons=true&theme=transparent" alt="Daniel's GitHub stats" />
+  </a>
+  <a href="https://github.com/dp1p">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dp1p&show_icons=true&layout=compact&theme=transparent" alt="dp1p's top languages" />
+  </a>
+  <a href="https://leetcode.com/dkei/">
+    <img src="https://leetcard.jacoblin.cool/dkei?theme=dark&font=Kaisei%20Opti&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dp1p)](https://github.com/dp1p/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp1p)](https://github.com/dp1p/github-readme-stats)
-![LeetCode Stats](https://leetcard.jacoblin.cool/dkei?theme=dark&font=Kaisei%20Opti&ext=heatmap)
 
 
 <!-- GIT STATUS COMPACT ---------------------->
