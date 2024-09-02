@@ -29,14 +29,15 @@ I am an Air Force Veteran transitioning to Software Engineer / Development.
 
 <h1 align="center"> 📊 Stats </h1>
 
-<p align="center">
-  <a href="https://github.com/dp1p">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dp1p&show_icons=true&layout=compact&theme=transparent" alt="dp1p's top languages"/>
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://github.com/dp1p" style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dp1p&show_icons=true&layout=compact&theme=transparent" alt="dp1p's top languages" style="width: 400px; height: auto;"/>
   </a>
-  <a href="https://leetcode.com/dkei/">
-    <img src="https://leetcard.jacoblin.cool/dkei?theme=dark&font=Kaisei%20Opti&ext=heatmap" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/dkei/" style="display: inline-block;">
+    <img src="https://leetcard.jacoblin.cool/dkei?theme=dark&font=Kaisei%20Opti&ext=heatmap" alt="LeetCode Stats" style="width: 400px; height: auto;"/>
   </a>
 </p>
+
 
 
 
