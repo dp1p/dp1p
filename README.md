@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to my GitHub! 👋
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=dp1p)](https://github.com/dp1p) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/dp1p?tab=followers)
+
 
 <!--
 **dp1p/dp1p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
