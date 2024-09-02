@@ -9,16 +9,13 @@
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
 
-<div class="container">
-  <div class="text-content">
-    <p>
-      Air Force veteran transitioning into software engineering. <br><br>
-      Focused on creating innovative web applications and exploring <br> game development. <br><br>
-      Driven by a passion for blending creativity with technology to <br> deliver impactful solutions.<br><br>
-    </p>
-  </div>
-  <img class="coding-gif" alt="Coding" src="coding.gif" width="300px">
-</div>
+<h2>About Me</h2>
+<p>
+  <img src="coding.gif" alt="Coding" width="150" style="vertical-align: middle;">
+  Air Force veteran transitioning into software engineering. <br><br>
+  Focused on creating innovative web applications and exploring <br> game development. <br><br>
+  Driven by a passion for blending creativity with technology to <br> deliver impactful solutions.<br><br>
+</p>
 
 <h1 align="center">🔧 Technologies</h1>
 
@@ -43,7 +40,6 @@
     <img src="https://leetcard.jacoblin.cool/dkei?theme=dark&font=Kaisei%20Opti&ext=heatmap" alt="LeetCode Stats" style="width: 400px; height: auto;"/>
   </a>
 </p>
-
 
 <!-- GIT STATUS COMPACT ---------------------->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp1p&langs_count=5) -->
