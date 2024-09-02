@@ -113,3 +113,9 @@ Here are some ideas to get you started:
 </ul>
 
 </p> -->
+
+
+<!-- RESOURCES ----------------
+
+https://simpleicons.org/ FOR ICONS
+https://shields.io/ FOR IMPORTING ICONS TO GITHUB / HTML MARKDOWN -->
