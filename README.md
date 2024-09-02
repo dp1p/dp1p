@@ -11,7 +11,7 @@
 
 
 
-  <img src="coding.gif" alt="Coding" width="200" align="right"/>
+  <img src="coding.gif" alt="Coding" width="300" align="right"/>
   
   <br><br>
   - Air Force veteran transitioning into software engineering. <br><br>
