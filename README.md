@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=black" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&labelColor=black" alt="Bootstrap"/>
 </p>
-
+<br>
 <h1 align="center">📊 Stats</h1>
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
