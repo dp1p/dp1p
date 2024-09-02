@@ -25,8 +25,9 @@ I am an Air Force Veteran transitioning to Software Engineer / Development.
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&labelColor=black)
 
-## Stats
+<h1 align="center"> 📊 Stats </h1> 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dp1p)](https://github.com/dp1p/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp1p)](https://github.com/dp1p/github-readme-stats)
