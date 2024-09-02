@@ -10,7 +10,7 @@
 </p>
 
 <div class="container">
-  <img class="coding-gif" alt="Coding" src="coding.gif" width="200px">
+  <img class="coding-gif" alt="Coding" src="coding.gif" width="300px">
   <div class="text-content">
     <p>
       Air Force veteran transitioning into software engineering. <br><br>
