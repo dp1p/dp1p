@@ -9,16 +9,16 @@
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
 
-<img align="right" alt="Coding" width="300" src="coding.gif">
-
-<p>
-    Air Force veteran transitioning into software engineering. <br><br>
-    Focused on creating innovative web applications and exploring <br> game development. <br><br>
-    Driven by a passion for blending creativity with technology to <br> deliver impactful solutions.<br><br>
-</p>
-
-
-
+<div class="container">
+  <img class="coding-gif" alt="Coding" src="coding.gif">
+  <div class="text-content">
+    <p>
+      Air Force veteran transitioning into software engineering. <br><br>
+      Focused on creating innovative web applications and exploring <br> game development. <br><br>
+      Driven by a passion for blending creativity with technology to <br> deliver impactful solutions.<br><br>
+    </p>
+  </div>
+</div>
 
 <h1 align="center">🔧 Technologies</h1>
 
@@ -43,6 +43,38 @@
     <img src="https://leetcard.jacoblin.cool/dkei?theme=dark&font=Kaisei%20Opti&ext=heatmap" alt="LeetCode Stats" style="width: 400px; height: auto;"/>
   </a>
 </p>
+
+<style>
+  .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .coding-gif {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+  }
+
+  .text-content {
+    flex: 1;
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .coding-gif {
+      order: -1;
+      margin-bottom: 20px;
+    }
+  }
+</style>
+
 
 <!-- GIT STATUS COMPACT ---------------------->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp1p&langs_count=5) -->
