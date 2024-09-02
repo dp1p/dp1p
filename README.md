@@ -55,7 +55,7 @@
 
   .coding-gif {
     max-width: 300px;
-    height: auto;
+    height: 300px;
   }
 
   .text-content {
