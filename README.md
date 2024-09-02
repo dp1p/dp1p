@@ -13,11 +13,11 @@
 
 [![Follow on GitHub](https://img.shields.io/github/followers/dp1p?label=Follow&style=social)](https://github.com/dp1p)
 
-- 🛫 Air Force veteran transitioning into software engineering.
+- 🛫 Air Force Veteran transitioning into Software Engineering.
 
-- 👾 Focused on creating innovative web applications and exploring game development. 
+- 👾 Creating web applications and exploring game development. 
 
--  ✍️ Driven by a passion for blending creativity with technology to <br> deliver impactful solutions. 
+-  ✍️ Adding a balance of Creavity and Innovation. 
 
 <h1 align="center">🔧 Technologies</h1>
 
@@ -43,35 +43,6 @@
   </a>
 </p>
 
-<style>
-  .text-with-gif {
-    display: flex;
-    align-items: flex-start;
-    gap: 20px;
-  }
-
-  .coding-gif {
-    width: 300px;
-    margin-left: 20px;
-    margin-bottom: 20px;
-    max-width: 100%;
-    height: auto;
-  }
-
-  @media (max-width: 768px) {
-    .text-with-gif {
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-    }
-
-    .coding-gif {
-      margin-left: 0;
-      margin-right: 0;
-      width: 100%;
-    }
-  }
-</style>
 <!-- GIT STATUS COMPACT ---------------------->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp1p&langs_count=5) -->
 
