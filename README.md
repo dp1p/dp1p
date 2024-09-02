@@ -9,7 +9,7 @@
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
 
-<img align="right" alt="Coding" width="400" src="coding.gif">
+<img align="right" alt="Coding" max-width="300" src="coding.gif">
 
 <p>
     Air Force veteran transitioning into software engineering. <br><br>
@@ -18,12 +18,6 @@
 </p>
 
 
-<br> <!-- line break for gap -->
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 <h1 align="center">🔧 Technologies</h1>
