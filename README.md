@@ -11,13 +11,12 @@
 
 <div class="text-with-gif">
   <img src="coding.gif" alt="Coding" class="coding-gif"/>
+</div>
 
-  <p>
     - Air Force veteran transitioning into software engineering.  
     - Focused on creating innovative web applications and exploring game development.  
     - Driven by a passion for blending creativity with technology to deliver impactful solutions.
-  </p>
-</div>
+
 
 <h1 align="center">🔧 Technologies</h1>
 
