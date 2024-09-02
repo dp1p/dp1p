@@ -9,7 +9,7 @@
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
 
-<img align="right" alt="Coding" max-width="300" src="coding.gif">
+<img align="right" alt="Coding" width="300" src="coding.gif">
 
 <p>
     Air Force veteran transitioning into software engineering. <br><br>
