@@ -31,10 +31,10 @@ I am an Air Force Veteran transitioning to Software Engineer / Development.
 
 <p align="center">
   <a href="https://github.com/dp1p">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dp1p&show_icons=true&layout=compact&theme=transparent" alt="dp1p's top languages" style="width: 100%; max-width: 800px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dp1p&show_icons=true&layout=compact&theme=transparent" alt="dp1p's top languages"/>
   </a>
   <a href="https://leetcode.com/dkei/">
-    <img src="https://leetcard.jacoblin.cool/dkei?theme=dark&font=Kaisei%20Opti&ext=heatmap" alt="LeetCode Stats" style="width: 100%; max-width: 800px;"/>
+    <img src="https://leetcard.jacoblin.cool/dkei?theme=dark&font=Kaisei%20Opti&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </p>
 
