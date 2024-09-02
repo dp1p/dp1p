@@ -28,6 +28,9 @@
   - [Project 4](https://link-to-project4)
 
 - ⚡ Fun fact: **I am Funny**
+</p>
+
+<p></p> <!-- empty space for line break -->
 
 <h1 align="center">🔧 Technologies</h1>
 
