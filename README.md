@@ -11,13 +11,7 @@
 
 <img align="right" alt="Coding" width="400" src="coding.gif">
 
-<!-- <p align="left">
-  <a href="https://twitter.com/rishavchanda" target="blank">
-    <img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p> -->
 <p>
-
 - 🔭 I’m currently working on **Vexa Web App**
 
 - 🌱 I’m currently learning **DevOps**
@@ -29,10 +23,9 @@
   - [Project 4](https://link-to-project4)
 
 - ⚡ Fun fact: **I am Funny**
-
 </p>
 
-<p> </p> <!-- empty space for line break -->
+<br> <!-- Line break for gap -->
 
 <h1 align="center">🔧 Technologies</h1>
 
