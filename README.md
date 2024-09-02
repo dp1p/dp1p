@@ -9,14 +9,19 @@
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
 
-<div class="text-with-gif">
-  <img src="coding.gif" alt="Coding" class="coding-gif"/>
-</div>
+<img align="right" alt="Coding" width="400" src="coding-gif.gif"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
-    - Air Force veteran transitioning into software engineering.  
-    - Focused on creating innovative web applications and exploring game development.  
-    - Driven by a passion for blending creativity with technology to deliver impactful solutions.
+- 🔭 I’m currently working on **Vexa Web App**
 
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **rishavchanda0@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 <h1 align="center">🔧 Technologies</h1>
 
