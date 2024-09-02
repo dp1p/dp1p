@@ -9,19 +9,16 @@
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
 
-<p align="left">
-    Projects
-  <ul>
-    <li><a href='#'>Project 1</a></li>
-    <li><a href='#'>Project 2</a></li>
-    <li><a href='#'>Project 3</a></li>
-    <li><a href='#'>Project 4</a></li>
-  </ul>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <ul>
+        <li><a href='#'>Project 1</a></li>
+        <li><a href='#'>Project 2</a></li>
+        <li><a href='#'>Project 3</a></li>
+        <li><a href='#'>Project 4</a></li>
+    </ul>
+    <img src='coding.gif' alt='coding gif' style="max-width: 200px; height: auto;">
+</div>
 
-<p align="right">
-    <img src='coding.gif' alt='coding gif'>
-</p>
 <!-- <p>
     Projects
   <ul>
