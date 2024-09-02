@@ -61,7 +61,6 @@
 
   .text-content {
     flex: 1;
-    text-align: left;
   }
 
   @media (max-width: 768px) {
@@ -75,6 +74,7 @@
     }
   }
 </style>
+
 
 <!-- GIT STATUS COMPACT ---------------------->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp1p&langs_count=5) -->
