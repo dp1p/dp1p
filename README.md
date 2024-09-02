@@ -19,6 +19,9 @@
 
 -  ✍️ Adding a balance of Creavity and Innovation. 
 
+<br>
+<br>
+
 <h1 align="center">🔧 Technologies</h1>
 
 <p align="center">
