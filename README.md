@@ -54,6 +54,12 @@
   }
   .text-content {
     flex: 1;
+    text-align: left;
+  }
+  .coding-gif {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
   }
 
   @media (max-width: 768px) {
