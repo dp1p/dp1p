@@ -1,6 +1,6 @@
 <img src='github-banner.png' alt="GitHub Banner" />
 
-<h1 align="center">🧑‍💻 Daniel's GitHub</h1>
+<h1 align="center">🧑‍💻 Air Force Veteran to Software Developer / Engineer </h1>
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/dp1p/dp1p" alt="Profile Visits"/> 
@@ -9,9 +9,16 @@
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
 
-<p align="center">
-  Air Force Veteran transitioning to Software Engineer / Developer.
+<p>
+    Projects
+  <ul>
+    <li><a href='#'>Project 1</a></li>
+    <li><a href='#'>Project 2</a></li>
+    <li><a href='#'>Project 3</a></li>
+    <li><a href='#'>Project 4</a></li>
+  </ul>
 </p>
+
 
 <h1 align="center">🔧 Technologies</h1>
 
