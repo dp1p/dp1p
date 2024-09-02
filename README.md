@@ -9,13 +9,11 @@
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
 
+<img src="coding.gif" alt="Coding" width="300" align="right" class="coding-gif" style="margin-left: 20px; margin-bottom: 20px;"/>
 
-
-  <img src="coding.gif" alt="Coding" width="300" align="right" style="margin-left: 20px; margin-bottom: 20px;"/>
-  
-  - Air Force veteran transitioning into software engineering. <br><br>
-  - Focused on creating innovative web applications and exploring <br> game development. <br><br>
-  - Driven by a passion for blending creativity with technology to <br> deliver impactful solutions.<br><br>
+- Air Force veteran transitioning into software engineering.  
+- Focused on creating innovative web applications and exploring game development.  
+- Driven by a passion for blending creativity with technology to deliver impactful solutions.
 
 
 <h1 align="center">🔧 Technologies</h1>
@@ -42,6 +40,17 @@
   </a>
 </p>
 
+<style>
+  @media (max-width: 768px) {
+    img.coding-gif {
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+</style>
 <!-- GIT STATUS COMPACT ---------------------->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp1p&langs_count=5) -->
 
