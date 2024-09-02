@@ -44,36 +44,6 @@
   </a>
 </p>
 
-<style>
-  .container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 20px;
-    flex-wrap: wrap;
-  }
-  .text-content {
-    flex: 1;
-  }
-  .coding-gif {
-    max-width: 300px;
-    width: 100%;
-    height: auto;
-  }
-
-  @media (max-width: 768px) {
-    .container {
-      flex-direction: column;
-      text-align: center;
-    }
-
-    .coding-gif {
-      order: -1;
-      margin-bottom: 20px;
-    }
-  }
-</style>
-
 
 <!-- GIT STATUS COMPACT ---------------------->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp1p&langs_count=5) -->
