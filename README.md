@@ -11,21 +11,41 @@
 
 <img align="right" alt="Coding" width="400" src="coding.gif">
 
-<p>
-- 🔭 I’m currently working on **Vexa Web App**
+<h2>About Me</h2>
 
-- 🌱 I’m currently learning **DevOps**
+<h3>Favorite Games</h3>
+<ul>
+    <li>Pokemon</li>
+    <li>Megaman</li>
+    <li>Final Fantasy</li>
+    <li>Smash Brothers</li>
+    <li>Overwatch</li>
+</ul>
+<h3>Favorite Cars</h3>
+<ul>
+    <li>MK5 Supra 3.0 Premium</li>
+    <li>BMW M3 CS</li>
+    <li>Porsche 911 GT3RS</li>
+    <li>Mclaren 720S</li>
+</ul>
+<h3>Favorite Mangas</h3>
+<ul>
+    <li>Jujutsu Kaisen</li>
+    <li>Sakamoto Days</li>
+    <li>Bleach</li>
+    <li>Chainsaw Man</li>
+</ul>
+<h3>Hobbies</h3>
+<ul>
+    <li>Draw</li>
+    <li>Gym</li>
+    <li>Play Games</li>
+</ul>
 
-- 💼 Check out my projects:
-  - [Project 1](https://link-to-project1)
-  - [Project 2](https://link-to-project2)
-  - [Project 3](https://link-to-project3)
-  - [Project 4](https://link-to-project4)
 
-- ⚡ Fun fact: **I am Funny**
-</p>
 
-<br> <!-- Line break for gap -->
+<br> <!-- line break for gap -->
+<br>
 
 <h1 align="center">🔧 Technologies</h1>
 
@@ -68,3 +88,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <p>
+    - 🔭 I’m currently working on **Vexa Web App**
+
+    - 🌱 I’m currently learning **DevOps**
+
+    - 💼 Check out my projects:
+    - [Project 1](https://link-to-project1)
+    - [Project 2](https://link-to-project2)
+    - [Project 3](https://link-to-project3)
+    - [Project 4](https://link-to-project4)
+
+    - ⚡ Fun fact: **I am Funny**
+</p> -->
