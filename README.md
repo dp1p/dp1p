@@ -1,6 +1,6 @@
 <img src='github-banner.png' alt="GitHub Banner" />
 
-<h1 align="center">🧑‍💻 Welcome </h1>
+<h1 align="center">🧑‍💻 Welcome</h1>
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/dp1p/dp1p" alt="Profile Visits"/> 
@@ -9,26 +9,23 @@
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <ul>
-        <li><a href='#'>Project 1</a></li>
-        <li><a href='#'>Project 2</a></li>
-        <li><a href='#'>Project 3</a></li>
-        <li><a href='#'>Project 4</a></li>
-    </ul>
-    <img src='coding.gif' alt='coding gif' style="max-width: 200px; height: auto;">
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li><a href='#'>Project 1</a></li>
+          <li><a href='#'>Project 2</a></li>
+          <li><a href='#'>Project 3</a></li>
+          <li><a href='#'>Project 4</a></li>
+        </ul>
+      </td>
+      <td>
+        <img src='coding.gif' alt='coding gif' style="max-width: 200px; height: auto;">
+      </td>
+    </tr>
+  </table>
 </div>
-
-<!-- <p>
-    Projects
-  <ul>
-    <li><a href='#'>Project 1</a></li>
-    <li><a href='#'>Project 2</a></li>
-    <li><a href='#'>Project 3</a></li>
-    <li><a href='#'>Project 4</a></li>
-  </ul>
-</p> -->
-
 
 <h1 align="center">🔧 Technologies</h1>
 
@@ -46,10 +43,10 @@
 <h1 align="center">📊 Stats</h1>
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/dp1p" style="display: inline-block;">
+  <a href="https://github.com/dp1p">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dp1p&show_icons=true&layout=compact&theme=transparent" alt="Top Languages" style="width: 400px; height: auto;"/>
   </a>
-  <a href="https://leetcode.com/dkei/" style="display: inline-block;">
+  <a href="https://leetcode.com/dkei/">
     <img src="https://leetcard.jacoblin.cool/dkei?theme=dark&font=Kaisei%20Opti&ext=heatmap" alt="LeetCode Stats" style="width: 400px; height: auto;"/>
   </a>
 </p>
@@ -71,7 +68,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- RESOURCES TO USE ------------------------------
-https://simpleicons.org/
-https://shields.io/badges -->
