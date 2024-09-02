@@ -1,4 +1,4 @@
-<img src='github-banner.png' alt="GitHub Banner" />
+<img src='github-banner2.png' alt="GitHub Banner" />
 
 <h1 align="center">🧑‍💻 Welcome</h1>
 
