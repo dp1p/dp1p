@@ -2,15 +2,12 @@
 
 <h1 align="center">🧑‍💻 Welcome</h1>
 
-
-
-<br>
-
-<img align="right" alt="Coding" width="300" src="coding.gif"/>
-
   [![Visits Badge](https://badges.pufler.dev/visits/dp1p/badge-it)](https://badges.pufler.dev)
   [![Repos Badge](https://badges.pufler.dev/repos/dp1p)](https://badges.pufler.dev)
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/dp1p)](https://badges.pufler.dev)
+
+<img align="right" alt="Coding" width="300" src="coding.gif"/>
+
 
 
 [![Follow on GitHub](https://img.shields.io/github/followers/dp1p?label=Follow&style=social)](https://github.com/dp1p)
