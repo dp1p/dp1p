@@ -9,13 +9,13 @@
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
 
-<h2>About Me</h2>
-<p>
-  <img src="coding.gif" alt="Coding" width="150" style="vertical-align: middle;">
-  Air Force veteran transitioning into software engineering. <br><br>
-  Focused on creating innovative web applications and exploring <br> game development. <br><br>
-  Driven by a passion for blending creativity with technology to <br> deliver impactful solutions.<br><br>
-</p>
+
+
+  <img src="coding.gif" alt="Coding" width="150" align="right"/>
+  - Air Force veteran transitioning into software engineering. <br><br>
+  - Focused on creating innovative web applications and exploring <br> game development. <br><br>
+  - Driven by a passion for blending creativity with technology to <br> deliver impactful solutions.<br><br>
+
 
 <h1 align="center">🔧 Technologies</h1>
 
