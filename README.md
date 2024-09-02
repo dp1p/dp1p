@@ -8,7 +8,7 @@
 I am an Air Force Veteran transitioning to Software Engineer / Development. 
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dp1p)](https://github.com/dp1p/github-readme-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel&layout=compact&&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp1p&layout=compact&&langs_count=8)
 
 TechStack:
 
