@@ -2,15 +2,15 @@
 
 <h1 align="center">🧑‍💻 Welcome</h1>
 
-<p align="center">
+
+
+<br>
+
+<img align="right" alt="Coding" width="300" src="coding.gif"/>
 
   [![Visits Badge](https://badges.pufler.dev/visits/dp1p/badge-it)](https://badges.pufler.dev)
   [![Repos Badge](https://badges.pufler.dev/repos/dp1p)](https://badges.pufler.dev)
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/dp1p)](https://badges.pufler.dev)
-</p>
-<br>
-
-<img align="right" alt="Coding" width="300" src="coding.gif"/>
 
 
 [![Follow on GitHub](https://img.shields.io/github/followers/dp1p?label=Follow&style=social)](https://github.com/dp1p)
@@ -118,7 +118,9 @@ Here are some ideas to get you started:
 https://simpleicons.org/ FOR ICONS
 https://shields.io/ FOR IMPORTING ICONS TO GITHUB / HTML MARKDOWN -->
 
+<!-- <p align="center"> -->
   <!-- <img src="https://badges.pufler.dev/visits/dp1p/dp1p" alt="Profile Visits"/> 
   <!-- <img src="https://badges.pufler.dev/years/dp1p" alt="Years on GitHub"/> -->
   <!-- <img src="https://badges.pufler.dev/repos/dp1p" alt="Repositories"/>
-  <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/> --> -->
+  <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/> --> 
+<!-- </p> -->
