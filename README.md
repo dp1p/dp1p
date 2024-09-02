@@ -3,10 +3,10 @@
 <h1 align="center">🧑‍💻 Welcome</h1>
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/dp1p/dp1p" alt="Profile Visits"/> 
-  <!-- <img src="https://badges.pufler.dev/years/dp1p" alt="Years on GitHub"/> -->
-  <img src="https://badges.pufler.dev/repos/dp1p" alt="Repositories"/>
-  <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
+
+  [![Visits Badge](https://badges.pufler.dev/visits/dp1p/badge-it)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/dp1p)](https://badges.pufler.dev)
 </p>
 <br>
 
@@ -107,6 +107,7 @@ Here are some ideas to get you started:
     <li>Draw</li>
     <li>Gym</li>
     <li>Play Games</li>
+
 </ul>
 
 </p> -->
@@ -116,3 +117,8 @@ Here are some ideas to get you started:
 
 https://simpleicons.org/ FOR ICONS
 https://shields.io/ FOR IMPORTING ICONS TO GITHUB / HTML MARKDOWN -->
+
+  <!-- <img src="https://badges.pufler.dev/visits/dp1p/dp1p" alt="Profile Visits"/> 
+  <!-- <img src="https://badges.pufler.dev/years/dp1p" alt="Years on GitHub"/> -->
+  <!-- <img src="https://badges.pufler.dev/repos/dp1p" alt="Repositories"/>
+  <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/> --> -->
