@@ -9,24 +9,29 @@
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-      Projects created by me
-        <ul>
-          <li><a href='#'>Project 1</a></li>
-          <li><a href='#'>Project 2</a></li>
-          <li><a href='#'>Project 3</a></li>
-          <li><a href='#'>Project 4</a></li>
-        </ul>
-      </td>
-      <td>
-        <img src='coding.gif' alt='coding gif' style="max-width: 100px; height: 400px;">
-      </td>
-    </tr>
-  </table>
-</div>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/rishavchanda" target="blank">
+    <img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
+
+- 🔭 I’m currently working on **Vexa Web App**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💼 Check out my projects:
+  - [Project 1](https://link-to-project1)
+  - [Project 2](https://link-to-project2)
+  - [Project 3](https://link-to-project3)
+  - [Project 4](https://link-to-project4)
+
+- ⚡ Fun fact: **I am Funny**
 
 <h1 align="center">🔧 Technologies</h1>
 
