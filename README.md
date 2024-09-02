@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&labelColor=black" alt="Bootstrap"/>
 </p>
 
-<br>
 <h1 align="center">📊 Stats</h1>
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
