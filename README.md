@@ -5,7 +5,7 @@
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/dp1p/dp1p"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <!-- <img src="https://badges.pufler.dev/years/dp1p"/> -->
  <img src="https://badges.pufler.dev/repos/dp1p"/>
  <img src="https://badges.pufler.dev/commits/monthly/dp1p" />
 
@@ -13,9 +13,6 @@
 
 I am an Air Force Veteran transitioning to Software Engineer / Development. 
 
-<!-- GIT STATUS ---------------------->
-<!-- [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dp1p)](https://github.com/dp1p/github-readme-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp1p&layout=compact&&langs_count=5) -->
 
 <h1 align="center"> 💻 TechStack </h1> 
 
@@ -28,8 +25,16 @@ I am an Air Force Veteran transitioning to Software Engineer / Development.
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&labelColor=black)
 
-## LeetCode Stat
+## Stats
+
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dp1p)](https://github.com/dp1p/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp1p)](https://github.com/dp1p/github-readme-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dkei?theme=dark&font=Kaisei%20Opti&ext=heatmap)
+
+
+<!-- GIT STATUS COMPACT ---------------------->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp1p&&&langs_count=5) -->
 
 <!--
 **dp1p/dp1p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
