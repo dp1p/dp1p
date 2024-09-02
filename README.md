@@ -9,12 +9,15 @@
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/>
 </p>
 
-<img src="coding.gif" alt="Coding" width="300" align="right" class="coding-gif" style="margin-left: 20px; margin-bottom: 20px;"/>
+<div class="text-with-gif">
+  <img src="coding.gif" alt="Coding" class="coding-gif"/>
 
-- Air Force veteran transitioning into software engineering.  
-- Focused on creating innovative web applications and exploring game development.  
-- Driven by a passion for blending creativity with technology to deliver impactful solutions.
-
+  <p>
+    - Air Force veteran transitioning into software engineering.  
+    - Focused on creating innovative web applications and exploring game development.  
+    - Driven by a passion for blending creativity with technology to deliver impactful solutions.
+  </p>
+</div>
 
 <h1 align="center">🔧 Technologies</h1>
 
@@ -41,13 +44,31 @@
 </p>
 
 <style>
+  .text-with-gif {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+  }
+
+  .coding-gif {
+    width: 300px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    max-width: 100%;
+    height: auto;
+  }
+
   @media (max-width: 768px) {
-    img.coding-gif {
-      width: 100%;
-      max-width: 100%;
-      height: auto;
+    .text-with-gif {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    .coding-gif {
       margin-left: 0;
       margin-right: 0;
+      width: 100%;
     }
   }
 </style>
