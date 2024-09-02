@@ -2,7 +2,7 @@
 
 <h1 align="center">🧑‍💻 Welcome</h1>
 <p align="center">
-\ <img src="https://badges.pufler.dev/visits/dp1p/dp1p" alt="Profile Visits"/> 
+ <img src="https://badges.pufler.dev/visits/dp1p/dp1p" alt="Profile Visits"/> 
   <!-- <img src="https://badges.pufler.dev/years/dp1p" alt="Years on GitHub"/> -->
   <img src="https://badges.pufler.dev/repos/dp1p" alt="Repositories"/>
   <img src="https://badges.pufler.dev/commits/monthly/dp1p" alt="Monthly Commits"/> 
