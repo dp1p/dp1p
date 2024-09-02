@@ -10,7 +10,7 @@
 </p>
 
 <div class="container">
-  <img class="coding-gif" alt="Coding" src="coding.gif">
+  <img class="coding-gif" alt="Coding" src="coding.gif" width="200px">
   <div class="text-content">
     <p>
       Air Force veteran transitioning into software engineering. <br><br>
@@ -52,12 +52,6 @@
     gap: 20px;
     flex-wrap: wrap;
   }
-
-  .coding-gif {
-    max-width: 100px;
-    height: 200px;
-  }
-
   .text-content {
     flex: 1;
   }
