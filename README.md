@@ -1,9 +1,10 @@
 ![Daniel Banner Image](./github-banner.png)
 
-<h1 align="center">Daniel's GitHub</h1>
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=dp1p)](https://github.com/dp1p)
-[![GitHub follow](https://img.shields.io/github/followers/dp1p.svg?style=social&label=Follow%20Me)](https://github.com/dp1p?tab=followers)
+<!-- <h1 align="center">Daniel's GitHub</h1> -->
+<p align="center">
+    [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=dp1p)](https://github.com/dp1p)
+    [![GitHub follow](https://img.shields.io/github/followers/dp1p.svg?style=social&label=Follow%20Me)](https://github.com/dp1p?tab=followers)
+</p>
 
 I am an Air Force Veteran transitioning to Software Engineer / Development. 
 
