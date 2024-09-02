@@ -1,4 +1,4 @@
-![Daniel Banner Image](./github-banner.png)
+<img src='github-banner.png' />
 
 <h1 align="center"> 🧑‍💻 Daniel's GitHub</h1>
 
