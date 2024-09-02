@@ -1,9 +1,15 @@
 ![Daniel Banner Image](./github-banner.png)
 
-<h1 align="center">Daniel's GitHub</h1>
+<h1 align="center"> 🧑‍💻 Daniel's GitHub</h1>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=dp1p)](https://github.com/dp1p)
-[![GitHub follow](https://img.shields.io/github/followers/dp1p.svg?style=social&label=Follow%20Me)](https://github.com/dp1p?tab=followers)
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/dp1p/dp1p"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/dp1p"/>
+ <img src="https://badges.pufler.dev/commits/monthly/dp1p" />
+
+</p>
 
 I am an Air Force Veteran transitioning to Software Engineer / Development. 
 
@@ -11,7 +17,7 @@ I am an Air Force Veteran transitioning to Software Engineer / Development.
 <!-- [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dp1p)](https://github.com/dp1p/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp1p&layout=compact&&langs_count=5) -->
 
-# 💻 TechStack:
+<h1 align="center"> 💻 TechStack </h1> 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black)
 ![CSS](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black)
 ![Javascript](https://img.shields.io/badge/javscript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
