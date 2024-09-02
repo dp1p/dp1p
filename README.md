@@ -11,37 +11,11 @@
 
 <img align="right" alt="Coding" width="400" src="coding.gif">
 
-<h2>About Me</h2>
-
-<h3>Favorite Games</h3>
-<ul>
-    <li>Pokemon</li>
-    <li>Megaman</li>
-    <li>Final Fantasy</li>
-    <li>Smash Brothers</li>
-    <li>Overwatch</li>
-</ul>
-<h3>Favorite Cars</h3>
-<ul>
-    <li>MK5 Supra 3.0 Premium</li>
-    <li>BMW M3 CS</li>
-    <li>Porsche 911 GT3RS</li>
-    <li>Mclaren 720S</li>
-</ul>
-<h3>Favorite Mangas</h3>
-<ul>
-    <li>Jujutsu Kaisen</li>
-    <li>Sakamoto Days</li>
-    <li>Bleach</li>
-    <li>Chainsaw Man</li>
-</ul>
-<h3>Hobbies</h3>
-<ul>
-    <li>Draw</li>
-    <li>Gym</li>
-    <li>Play Games</li>
-</ul>
-
+<p>
+    Air Force veteran transitioning into software engineering. 
+    Focused on creating innovative web applications and exploring game development. 
+    Driven by a passion for blending creativity with technology to deliver impactful solutions.
+</p>
 
 
 <br> <!-- line break for gap -->
@@ -101,4 +75,36 @@ Here are some ideas to get you started:
     - [Project 4](https://link-to-project4)
 
     - ⚡ Fun fact: **I am Funny**
+
+    <h3>About Me</h3>
+
+<h3>Favorite Games</h3>
+<ul>
+    <li>Pokemon</li>
+    <li>Megaman</li>
+    <li>Final Fantasy</li>
+    <li>Smash Brothers</li>
+    <li>Overwatch</li>
+</ul>
+<h3>Favorite Cars</h3>
+<ul>
+    <li>MK5 Supra 3.0 Premium</li>
+    <li>BMW M3 CS</li>
+    <li>Porsche 911 GT3RS</li>
+    <li>Mclaren 720S</li>
+</ul>
+<h3>Favorite Mangas</h3>
+<ul>
+    <li>Jujutsu Kaisen</li>
+    <li>Sakamoto Days</li>
+    <li>Bleach</li>
+    <li>Chainsaw Man</li>
+</ul>
+<h3>Hobbies</h3>
+<ul>
+    <li>Draw</li>
+    <li>Gym</li>
+    <li>Play Games</li>
+</ul>
+
 </p> -->
