@@ -10,6 +10,7 @@
 </p>
 
 <div class="container">
+  <img class="coding-gif" alt="Coding" src="coding.gif">
   <div class="text-content">
     <p>
       Air Force veteran transitioning into software engineering. <br><br>
@@ -17,7 +18,6 @@
       Driven by a passion for blending creativity with technology to <br> deliver impactful solutions.<br><br>
     </p>
   </div>
-  <img class="coding-gif" alt="Coding" src="coding.gif">
 </div>
 
 <h1 align="center">🔧 Technologies</h1>
@@ -70,6 +70,7 @@
     }
 
     .coding-gif {
+      order: -1;
       margin-bottom: 20px;
     }
   }
