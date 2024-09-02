@@ -14,30 +14,30 @@
 I am an Air Force Veteran transitioning to Software Engineer / Development. 
 
 
-<h1 align="center"> 💻 TechStack </h1> 
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black)
-![CSS](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black)
-![Javascript](https://img.shields.io/badge/javscript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
-![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black)
-![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=%23092E20&labelColor=black)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&labelColor=black)
-
-<h1 align="center"> 📊 Stats </h1> 
+<h1 align="center"> 🔧 Technologies </h1> 
 
 <p align="center">
-  <a href="https://github.com/dp1p/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dp1p&show_icons=true&theme=transparent" alt="Daniel's GitHub stats" />
-  </a>
+  <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black" alt="CSS"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black" alt="Python"/>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=%23092E20&labelColor=black" alt="Django"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=black" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&labelColor=black" alt="Bootstrap"/>
+</p>
+
+<h1 align="center"> 📊 Stats </h1>
+
+<p align="center">
   <a href="https://github.com/dp1p">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dp1p&show_icons=true&layout=compact&theme=transparent" alt="dp1p's top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dp1p&show_icons=true&layout=compact&theme=transparent" alt="dp1p's top languages" style="width: 100%; max-width: 800px;"/>
   </a>
   <a href="https://leetcode.com/dkei/">
-    <img src="https://leetcard.jacoblin.cool/dkei?theme=dark&font=Kaisei%20Opti&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/dkei?theme=dark&font=Kaisei%20Opti&ext=heatmap" alt="LeetCode Stats" style="width: 100%; max-width: 800px;"/>
   </a>
 </p>
+
 
 
 
