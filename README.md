@@ -10,7 +10,7 @@
 </p>
 <br>
 
-<img align="right" alt="Coding" width="400" src="coding.gif"/>
+<img align="right" alt="Coding" width="300" src="coding.gif"/>
 
 
 [![Follow on GitHub](https://img.shields.io/github/followers/dp1p?label=Follow&style=social)](https://github.com/dp1p)
