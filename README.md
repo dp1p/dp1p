@@ -1,16 +1,9 @@
 ![Daniel Banner Image](./github-banner.png)
 
-<!-- <h1 align="center">Daniel's GitHub</h1> -->
+<h1 align="center">Daniel's GitHub</h1>
 
-<p align="center">
-  <a href="https://github.com/dp1p">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=dp1p" alt="Visitor"/>
-  </a>
-  <a href="https://github.com/dp1p?tab=followers">
-    <img src="https://img.shields.io/github/followers/dp1p.svg?style=social&label=Follow%20Me" alt="GitHub follow"/>
-  </a>
-</p>
-
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=dp1p)](https://github.com/dp1p)
+[![GitHub follow](https://img.shields.io/github/followers/dp1p.svg?style=social&label=Follow%20Me)](https://github.com/dp1p?tab=followers)
 
 I am an Air Force Veteran transitioning to Software Engineer / Development. 
 
@@ -28,7 +21,7 @@ I am an Air Force Veteran transitioning to Software Engineer / Development.
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&labelColor=black)
 
-## LeetCode Stats
+## LeetCode Stat
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dkei?theme=dark&font=Kaisei%20Opti&ext=heatmap)
 
 <!--
