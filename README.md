@@ -21,7 +21,7 @@
         </ul>
       </td>
       <td>
-        <img src='coding.gif' alt='coding gif' style="max-width: 100px; height: 100px;">
+        <img src='coding.gif' alt='coding gif' style="max-width: 100px; height: 200px;">
       </td>
     </tr>
   </table>
