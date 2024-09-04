@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black" alt="CSS3"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black" alt="Python"/>
+  <img src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=black" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=%23092E20&labelColor=black" alt="Django"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=black" alt="Tailwind CSS"/>
